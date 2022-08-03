@@ -15,6 +15,8 @@ A sua missão é: Construir um algorítimo que seja capaz de resolver esse probl
 
 ## ➡️ Exemplo
 
+💡 Não leve o resultado do exemplo acima como certo, o algorítimo deve sortear aleatoriamente os participantes que menos foram para o grupo de estudos, portanto, nem toda vez o resultado será o mesmo.
+
 ```js
 const students = [
   { name: "Jonny", times: 3, stack: "BACK" },
@@ -60,8 +62,3 @@ console.log(result);
 //   ]
 // ]
 ```
-
-<aside>
-💡 Não leve o resultado do exemplo acima como certo, o algorítimo deve sortear aleatoriamente os participantes que menos foram para o grupo de estudos, portanto, nem toda vez o resultado será o mesmo.
-
-</aside>
